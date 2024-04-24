@@ -1,7 +1,3 @@
---Dataos BDAcademico
---Autor: Betsabe
---Fecha: 7 Agosto 2015
-
 use BDVentas
 go
 
