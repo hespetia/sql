@@ -1,0 +1,1 @@
+Alter authorization on database::nombredelabasededatos to sa
